@@ -1,0 +1,12 @@
+{
+  "id": "cmake",
+  "version": "0.0.1",
+  "name": "cmake",
+  "documentationURL": "https://github.com/loag/cmake-feature",
+  "description": "Installs cmake with apt",
+  "options": {},
+  "mounts": [],
+  "installsAfter": [
+      "ghcr.io/devcontainers/features/common-utils"
+  ]
+}
